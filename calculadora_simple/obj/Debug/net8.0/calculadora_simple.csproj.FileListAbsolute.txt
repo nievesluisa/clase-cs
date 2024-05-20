@@ -1,0 +1,14 @@
+C:\Users\Lisber Perez\Desktop\proyecto C#\calculadora_simple\obj\Debug\net8.0\calculadora_simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\proyecto C#\calculadora_simple\obj\Debug\net8.0\calculadora_simple.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\proyecto C#\calculadora_simple\obj\Debug\net8.0\calculadora_simple.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\proyecto C#\calculadora_simple\obj\Debug\net8.0\calculadora_simple.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\proyecto C#\calculadora_simple\bin\Debug\net8.0\calculadora_simple.exe
+C:\Users\Lisber Perez\Desktop\proyecto C#\calculadora_simple\bin\Debug\net8.0\calculadora_simple.deps.json
+C:\Users\Lisber Perez\Desktop\proyecto C#\calculadora_simple\bin\Debug\net8.0\calculadora_simple.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\proyecto C#\calculadora_simple\bin\Debug\net8.0\calculadora_simple.dll
+C:\Users\Lisber Perez\Desktop\proyecto C#\calculadora_simple\bin\Debug\net8.0\calculadora_simple.pdb
+C:\Users\Lisber Perez\Desktop\proyecto C#\calculadora_simple\obj\Debug\net8.0\calculadora_simple.dll
+C:\Users\Lisber Perez\Desktop\proyecto C#\calculadora_simple\obj\Debug\net8.0\refint\calculadora_simple.dll
+C:\Users\Lisber Perez\Desktop\proyecto C#\calculadora_simple\obj\Debug\net8.0\calculadora_simple.pdb
+C:\Users\Lisber Perez\Desktop\proyecto C#\calculadora_simple\obj\Debug\net8.0\calculadora_simple.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\proyecto C#\calculadora_simple\obj\Debug\net8.0\ref\calculadora_simple.dll
