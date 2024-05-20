@@ -1,8 +1,8 @@
 ﻿
-Console.Write("Ingresa el primer digito: ");
+Console.Write("Ingresa el primer numero: ");
 double num1 = Convert.ToDouble(Console.ReadLine());
 
-Console.Write("Ingresa el segundo digito: ");
+Console.Write("Ingresa el segundo numero: ");
 double num2 = Convert.ToDouble(Console.ReadLine());
             
 Console.Write("Selecciona la operación (+, -, *, /): ");
